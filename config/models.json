@@ -1,0 +1,14 @@
+{
+  "default": "openai",
+  "providers": {
+    "openai": {
+      "enabled": true
+    },
+    "anthropic": {
+      "enabled": false
+    },
+    "google": {
+      "enabled": false
+    }
+  }
+}
