@@ -1,0 +1,10 @@
+{
+  "name": "@gas/lgbtq-platform",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Luma LGBTQ+ community, events, and sports MVP prototype",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
